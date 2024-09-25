@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **E-commerce**
 
-- 💬 Ask me about **I am Raja Ba.TAMIL**
+- 💬 Ask me about **I am Raja Ba.tamil**
 
 - 📫 How to reach me **rajaraja86196@gamail.com**
 
@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=red-raj&show_icons=true&locale=en" alt="red-raj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=red-raj&" alt="red-raj" /></p>
+
+
